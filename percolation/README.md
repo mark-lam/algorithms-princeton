@@ -4,3 +4,5 @@
 
 ![alt_text](http://coursera.cs.princeton.edu/algs4/assignments/percolates-yes.png)
 ![alt_text](http://coursera.cs.princeton.edu/algs4/assignments/percolates-no.png)
+
+<img src="http://coursera.cs.princeton.edu/algs4/assignments/percolates-yes.png" width="100" height="100">

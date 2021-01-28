@@ -2,4 +2,16 @@
 
 For Algorithms (Princeton) course on Coursera.
 
-Topics covered: union find, stacks, queues, elementary sorts, classic sorts, priority queues, symbol tables, balanced search trees.
+- Union find
+- Stacks
+- Queues
+- Elementary sorts
+  - Selection sort
+  - Insertion sort
+  - Shell sort
+- Classic sorts
+  - Merge sort
+  - Quick sort
+- Priority queues
+- Symbol tables
+- Balanced search trees
